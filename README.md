@@ -1,2 +1,2 @@
-# Natours
-Natours | Exciting tours for adventurous people
+# `Natours`
+## `Natours | Exciting tours for adventurous people`
